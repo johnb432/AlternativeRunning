@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="alternative_running">
+    <Package name="main">
+        <Key ID="STR_alternative_running_main_clientSettings">
+            <English>Client Settings</English>
+        </Key>
+        <Key ID="STR_alternative_running_main_settingEnableMgBolt">
+            <English>Enable run animation for MG/Bolt action</English>
+        </Key>
+        <Key ID="STR_alternative_running_main_toggleAction">
+            <English>Toggle Alternative Running</English>
+        </Key>
+        <Key ID="STR_alternative_running_main_toggleActionDesc">
+            <English>Toggles alternative running.</English>
+        </Key>
+    </Package>
+</Project>

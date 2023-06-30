@@ -1,0 +1,16 @@
+name = "Alternative-Running"
+prefix = "alternative_running"
+mainprefix = "x"
+
+[version]
+git_hash = 0 # Disabled
+
+[properties]
+author = "WebKnight"
+url = "https://vk.com/senpai_naxoditsya_tut"
+
+[files]
+include = [
+    "meta.cpp",
+    "mod.cpp"
+]
